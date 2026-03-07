@@ -1,0 +1,61 @@
+# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+wheels/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables (API keys)
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit config
+.streamlit/
+
+# Vector database files
+chroma/
+chromadb/
+*.db
+*.sqlite3
+
+# Embedding / ML cache
+.cache/
+models/
+
+# Temporary audio/video files (yt-dlp downloads)
+*.mp3
+*.wav
+*.mp4
+*.mkv
+*.webm
+
+# Whisper / speech model cache
+*.pt
+*.bin
+
+# Python version managers
+.python-version
+
+# IDE files
+.vscode/
+.idea/

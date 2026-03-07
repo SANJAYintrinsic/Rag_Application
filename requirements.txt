@@ -1,0 +1,14 @@
+chromadb
+faster-whisper
+groq
+langchain
+langchain-community
+langchain-groq
+langgraph
+pydub
+pypdf
+sentence-transformers
+streamlit
+tiktoken
+transformers
+yt-dlp
